@@ -12,17 +12,11 @@ https://contest.yandex.ru/contest/8458/problems/A/
 Это разминочная задача, к которой мы размещаем готовые решения. Она очень простая и нужна для того, чтобы вы могли познакомиться с нашей автоматической системой проверки решений. Ввод и вывод осуществляется через файлы, либо через стандартные потоки ввода-вывода, как вам удобнее.
 
 Python: https://pastebin.com/bCKpF9Ru. В качестве языка выбирайте Python 2.7.
-
 C++: https://pastebin.com/e5wMVV1u. Можно использовать GNU c++ 14 4.9.
-
 C#: https://pastebin.com/UZU4iCB0. Язык: Mono C# 5.2.0.
-
 Java: https://pastebin.com/SbLfafuv. Подойдёт, например, язык Java 8.
-
 Kotlin: https://pastebin.com/Ruj3W2Er. Язык: Kotlin.
-
 Swift: https://pastebin.com/Jh5PPwM6. Язык: Swift 4.1.1.
-
 JavaScript: https://pastebin.com/B5YhwWFK. Язык: Node JS 8.9.4.
 
 Формат ввода
